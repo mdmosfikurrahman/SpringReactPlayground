@@ -1,0 +1,4 @@
+URL: jdbc:mysql://localhost:3306/SpringReactPlayground
+User Name: root
+Password: root
+Dialect: org.hibernate.dialect.MySQL8Dialect
